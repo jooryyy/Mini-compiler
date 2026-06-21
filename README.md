@@ -1,6 +1,6 @@
 # Mini Compiler (Python)
 
-A small compiler built in Python from scratch — no parser-generator libraries, no external dependencies. It implements a full front-end pipeline: lexical analysis, recursive-descent parsing, symbol table management, and code emission to a stack-based intermediate language.
+A small compiler built in Python from scratch - no parser generator libraries, no external dependencies. It implements a full front-end pipeline: lexical analysis, recursive-descent parsing, symbol table management, and code emission to a stack-based intermediate language.
 
 ## Overview
 
